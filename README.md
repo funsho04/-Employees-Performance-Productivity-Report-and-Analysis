@@ -127,9 +127,12 @@ In analyzing productivity and work hours, we find that employees work an average
 
 This dashboard provides insights into the relationship between overtime hours and employee well-being. Employees, on average, take 7 sick days annually, with only minor differences across genders. This low variation suggests a fairly consistent health trend across demographics. However, there is a clear impact of overtime on satisfaction and health metrics. Employees with higher overtime hours often report reduced satisfaction, which can affect both morale and overall health. Increased overtime has also shown a tendency to lead to higher sick leave, as prolonged work hours may eventually lead to burnout and other health issues. These findings emphasize the importance of managing overtime to maintain both productivity and employee health, which can enhance satisfaction in the long term.
 
-#### Conclusion and Key Insights
+### Conclusion and Key Insights
 
 In this final overview, key performance indicators (KPIs) underscore essential insights: Ambike IT Solutions achieved balanced growth across genders, with a year-over-year employee increase of around 7%, reflecting inclusive hiring practices. Retention rates are high at 89.99%, and turnover is low at 10.01%, signaling effective employee engagement. The average monthly salary remains consistent at $6.40K, while work hours average 45 hours per week with an additional 14.5 hours in overtime. These metrics show a workforce with stable compensation and manageable productivity demands. Finally, the volume of projects handled is impressive, with a total of 2.44 million projects completed, demonstrating substantial output across job roles. These KPIs confirm a foundation of growth, stability, and productivity, which supports ongoing organizational success.
 
 
 
+![](Thankyou.jpg)
+
+Thank you for following through.
